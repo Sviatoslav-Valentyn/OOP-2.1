@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Asus\Desktop\ООП 2.1\UnitTest1\UnitTest1.cpp(18,1): warning C4305: аргумент: усечение из "int" в "bool"
+     Создается библиотека C:\Users\Asus\Desktop\ООП 2.1\OOP 2.1\Debug\UnitTest1.lib и объект C:\Users\Asus\Desktop\ООП 2.1\OOP 2.1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Asus\Desktop\ООП 2.1\OOP 2.1\Debug\UnitTest1.dll
